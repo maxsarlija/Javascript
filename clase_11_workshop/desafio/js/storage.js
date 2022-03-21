@@ -29,3 +29,4 @@ function store (){
     window.localStorage.setItem("cliente", JSON.stringify(cliente));
 
 }
+
