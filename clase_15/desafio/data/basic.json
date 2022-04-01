@@ -1,0 +1,16 @@
+[
+    {
+    "title": "Fiat", 
+    "id": "1",
+    "name": "Siena",
+    "description": "Auto con peligro de robo en zonas 1 2 y 3",
+    "price": "100"
+},
+{ 
+    "title": "Volkswagen",
+    "id": "2",
+    "name": "Amarok",
+    "description": "Auto con peligro de robo ALERTA ROJA",
+    "price": "200"
+}
+]
